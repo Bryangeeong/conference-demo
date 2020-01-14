@@ -38,7 +38,7 @@ public class Speaker {
 
     }
 
-    public byte[] getSpeaker_photo() {
+        public byte[] getSpeaker_photo() {
         return speaker_photo;
     }
 
